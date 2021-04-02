@@ -1,0 +1,31 @@
+{
+  "apiVersion": "6.0.0",
+  "partnerId": 3197,
+  "user": {
+    "objectType": "KalturaOTTUser",
+    "username": "QATest_15851304173132",
+    "firstName": "ott_user_lWkiwzTJJGYI",
+    "lastName": "1585130417330",
+    "email": "QATest_1585130417313@mailinator.com",
+    "address": "ott_user_lWkiwzTJJGYI fake address",
+    "city": "ott_user_lWkiwzTJJGYI fake city",
+    "countryId": 5,
+    "externalId": "3164004122"
+  },
+  "password": "password_SlLVWDLl"
+}2021-04-02 16:17:46: Waiting for a car to show
+2021-04-02 16:17:54: New car arrived
+2021-04-02 16:17:54: processing the plate number
+2021-04-02 16:17:54: processing the plate number
+2021-04-02 16:18:07: response code is not 200 it is:411
+2021-04-02 16:18:07: Waiting for a car to show
+2021-04-02 16:18:07: New car arrived
+2021-04-02 16:18:07: processing the plate number
+2021-04-02 16:18:07: processing the plate number
+2021-04-02 16:18:07: response code is not 200 it is:411
+2021-04-02 16:18:07: Waiting for a car to show
+2021-04-02 16:18:34: New car arrived
+2021-04-02 16:18:34: processing the plate number
+2021-04-02 16:18:34: processing the plate number
+2021-04-02 16:18:34: response code is not 200 it is:411
+2021-04-02 16:18:34: Waiting for a car to show

@@ -1,0 +1,36 @@
+{
+  "executionTime": 0.0251053,
+  "result": {
+    "objectType": "KalturaOTTUser",
+    "firstName": "ott_user_lWkiwzTJJGYI",
+    "id": "1297449",
+    "lastName": "1585130417330",
+    "username": "QATest_15851304173132",
+    "address": "ott_user_lWkiwzTJJGYI fake address",
+    "city": "ott_user_lWkiwzTJJGYI fake city",
+    "country": {
+      "objectType": "KalturaCountry",
+      "code": "",
+      "id": 5,
+      "name": ""
+    },
+    "countryId": 5,
+    "createDate": 0,
+    "dynamiDcata": {},
+    "email": "QATest_1585130417313@mailinator.com",
+    "externalId": "3164004121",
+    "failedLoginCount": 0,
+    "householdId": 0,
+    "isHouseholdMaster": false,
+    "lastLoginDate": -62135596800,
+    "roleIds": "1",
+    "suspensionState": "NOT_SUSPENDED",
+    "suspentionState": "not_suspended",
+    "updateDate": 0,
+    "userState": "user_with_no_household",
+    "userType": {
+      "objectType": "KalturaOTTUserType",
+      "description": ""
+    }
+  }
+}

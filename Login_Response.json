@@ -1,0 +1,54 @@
+{
+  "executionTime": 0.2358778,
+  "result": {
+    "loginSession": {
+      "objectType": "KalturaLoginSession",
+      "expiry": 1586708550,
+      "ks": "djJ8MzE5N3yijDlgREVOH-ruNBTdmrRczsFtEAQuWqpN3LzPs7m-L9_u3XqcfZ_ecIg7uWtjlOIykTFgundkcfvU6D6LrkJ3TjqIvL3WmrOD895b1HPW03E2qLZAE3xhgIVJ-2-",
+      "ks": "cXOkAFh6ruybwiX6qUFsKGxufct0pda5LYbjrgzdfm7KZ2KZ9lzVl5MMvWLZyPO8whpqbC149WVViMNTvv8lLnCG",
+      "ks":"9FEn_gAgbnwFECm39kZTsj1kzj80DoN0vw9bQXmATAt15vgg3dGJytVo7Y6A4BBHYmayHerbFOop7vtz3qhkbeF",
+      "ks":"8KYx_b035HfjUv5EXSGsM10jesX2PI7y0JsY9Nh7A",
+      "refreshToken": "93b5d327cdb94f0e8aa40bb9d5efe5f8"
+    },
+    "objectType": "KalturaLoginResponse",
+    "user": {
+      "objectType": "KalturaOTTUser",
+      "firstName": "ott_user_lWkiwzTJJGYI",
+      "id": "1297449",
+      "lastName": "1585130417330",
+      "username": "QATest_15851304173131",
+      "address": "ott_user_lWkiwzTJJGYI fake address",
+      "affiliateCode": "",
+      "city": "ott_user_lWkiwzTJJGYI fake city",
+      "country": {
+        "objectType": "KalturaCountry",
+        "code": "BM",
+        "id": 5,
+        "name": "Bermuda"
+      },
+      "countryId": 5,
+      "createDate": 1586077720,
+      "dynamicData": {},
+      "email": "QATest_1585130417313@mailinator.com",
+      "externalId": "3164004121",
+      "facebookId": "",
+      "facebookImage": "",
+      "facebookToken": "",
+      "failedLoginCount": 0,
+      "householdId": 0,
+      "isHouseholdMaster": false,
+      "lastLoginDate": 1586101043,
+      "phone": "",
+      "roleIds": "1",
+      "suspensionState": "NOT_SUSPENDED",
+      "suspentionState": "not_suspended",
+      "updateDate": 1586077720,
+      "userState": "ok",
+      "userType": {
+        "objectType": "KalturaOTTUserType",
+        "description": ""
+      },
+      "zip": ""
+    }
+  }
+}
